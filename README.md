@@ -1,3 +1,3 @@
-# [usheninte](https://ninte.dev)
+# [Usheninte](https://ninte.dev)
 
 Personal website
